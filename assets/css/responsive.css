@@ -1,0 +1,535 @@
+
+@media (max-width:320px){
+    .clone{
+        width: 200px;
+    }
+    .close{
+        left: 63%;
+    }
+    .category{
+        display: block;
+    }
+    .color{
+        margin-bottom: 15px;
+    }
+    a.button{
+        padding: 2px 15px;
+    }
+    .look_inner_1 h3{
+        font-size: 20px;
+        text-align: center;
+    }
+    .look_inner_1, .look_inner_2{
+        width: 100%;
+    }
+    .look_inner_2 h4{
+        font-size: 25px;
+    }
+    .device span{
+        font-size: 17px;
+        margin: 0 5px;
+    }
+    .device::after, .device::before{
+        width: 15px;
+    }
+    .cardblock{
+        display: block;
+    }
+    .chiacot{
+        display: flex !important;
+        overflow-x: scroll;
+        gap: 10px !important;
+    }
+    .footer_logo{
+        margin-top: 20px;
+    }
+    .footer_top{
+        display: flex !important;
+        flex-direction: column;
+    }
+    .right ul li {
+        margin-left: 5px;
+    }
+    .women{
+        padding: 5px;
+        min-width: 0;
+    }
+    .duct_1{
+        gap: 0;
+        margin-right: 7.5px !important;
+    }
+    .duct_2{
+        margin-left: 7.5px !important;
+    }
+    .product-column-b{
+        margin-top: 15px !important;
+    }
+    .activity{  
+        display: block;
+    }   
+
+}
+@media (max-width:575.98px){
+    .none-res{
+        display: none;
+    }
+    .header{
+        flex-direction:column;
+        height: auto;
+    }
+    .bar_location{
+        margin-bottom: 15px;
+    }
+    .bar{
+        margin-top: 15px;
+        width: 100%;
+    }
+    .sale,.bar_location{
+        width: 100%;
+    }
+    .menubar{
+        display: none;
+    }
+    .nav-bar{
+        display: block;
+    }
+    .bar_location,.bar,.logo{
+        justify-content: center;
+    }
+    .fest{
+        font-size: 30px;
+    }
+    .summer{
+        font-size: 10px;
+    }
+    #round{
+        padding: 0 7.5px;
+        min-height: 0;
+        font-size: 12px;
+    }
+    .none #round{
+        min-width: 0;
+    }
+    .look_inner_1, .look_inner_2{
+        width: 100%;
+    }
+    .look_inner_1 h3{
+        text-align: center;
+    }
+
+  .none{
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 75%;
+  }
+    .container{
+        padding: 0 15px;
+    }
+    .new,.sale_off {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 9px;
+    }
+    .button_quick,.text{
+        display: none;
+    }
+    .res-cate{
+        display: block;
+    }
+    .product,.trend,.saler, .lates, .follow{
+        padding-top: 15px;
+    }
+    .product{
+        flex-direction: column;
+    }
+    .duct_1{
+        margin: 0;
+        margin-right: 7.5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .product-column-b{
+        margin-top: 15px;
+    }
+    .duct_2{
+        margin-left: 7.5px;
+    }
+    .category{
+        margin-top: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+
+    }
+    .category >div{
+        flex-basis: 47%;
+    }
+
+    .load{
+        margin-bottom: 30px;
+    }
+    .lookout{
+        display: block;
+    }
+    .look{
+        margin: 15px 0;
+    }
+    .out{
+        margin-bottom: 15px;
+    }
+    .look{
+        margin: 0;
+    }
+    .chiacot{
+        display: block;
+    }
+
+    .activity{
+        display: block;
+    }
+    .footer_top{
+        display: block;
+    }
+    .cardblock{
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    .cardblock > div{
+        flex-basis: 49%;
+    }
+    .contact_col{
+        margin-top: 20px;
+    }
+    .categories, .information, .link,.content p,.footer_logo, .signup{
+        width: 100%;
+    }
+    .post{
+        margin-top: 15px;
+    }
+    .device span{
+        margin: 0 15px;
+        font-size: 15px;
+    }
+    .device::after, .device::before{
+        width: 15px;
+    }
+    .footer{
+        display: block;
+        text-align: center;
+    }
+    .footer_logo,.categories{
+        margin-top: 15px;
+    }
+    .right ul{
+        justify-content: center;
+    }
+    .menu-bottom,.res-cate{
+        display: block;
+    }
+    .con{
+        padding-bottom: 70px;
+    }
+
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+    .header{
+        flex-direction:column;
+        height: auto;
+    }
+    .bar_location{
+        margin-bottom: 15px;
+    }
+    .bar{
+        margin-top: 15px;
+        width: 100%;
+    }
+    .sale,.bar_location{
+        width: 100%;
+    }
+    .menubar{
+        display: none;
+    }
+    .nav-bar{
+        display: block;
+    }
+    .bar_location,.bar,.logo{
+        justify-content: center;
+    }
+    .container{
+        padding: 0 15px;
+    }
+    .new,.sale_off {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 9px;
+    }
+    .button_quick,.text{
+        display: none;
+    }
+    .res-cate{
+        display: block;
+    }
+    .product,.trend,.saler, .lates, .follow{
+        padding-top: 15px;
+    }
+    .product{
+        flex-direction: column;
+    }
+    .duct_1{
+        margin: 0;
+        margin-right: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .product-column-b{
+        margin-top: 30px;
+    }
+    .duct_2{
+        margin-left: 15px;
+    }
+    .category{
+        margin-top: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .category >div{
+        flex-basis: 47%;
+    }
+    .out{
+        margin-top: 15px;
+    }
+    .lookout{
+        display: block;
+        padding-top: 30px;
+    }
+    .chiacot{
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 30px;
+    }
+    .footer_top{
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 30px;
+        justify-content: flex-start;
+    }
+    .categories, .information, .link,.content p,.footer_logo, .signup{
+        width: 100%;
+    }
+    .footer{
+        display: block;
+        text-align: center;
+    }
+    .right ul{
+        justify-content: center;
+    }
+    .menu-bottom,.res-cate{
+        display: block;
+    }
+    .con{
+        padding-bottom: 70px;
+    }
+    .activity{
+        display: block;
+    }
+    .post{
+        margin: 15px 0;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+    .header{
+        flex-direction:column;
+        height: auto;
+    }
+    .bar_location{
+        margin-bottom: 15px;
+    }
+    .bar{
+        margin-top: 15px;
+        width: 100%;
+    }
+    .sale{
+        width: 100%;
+    }
+    .menubar{
+        display: none;
+    }
+    .nav-bar{
+        display: block;
+    }
+    .bar_location,.bar,.logo{
+        justify-content: center;
+    }
+    .duct_2{
+        margin-left: 7.5px;
+    }
+    .duct_1{
+        margin: 0 7.5px;
+    }
+    .duct{
+        margin-right: 7.5px;
+    }
+    .product{
+        margin: 15px 0;
+    }
+    .container{
+       padding: 0 15px;
+    }
+    .button_quick,.text{
+       display: none;
+    }
+    .res-cate{
+       display: block;
+    }
+    .new,.sale_off {
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+        font-size: 9px;
+    }
+    .cate_inner a{
+        font-size: 12px;
+    }
+    .res{
+        padding: 5px;
+    }
+
+    .new,.sale_off{
+        top: 10px;
+        right: 10px;
+    }
+    .color li{
+        width: 15px;
+        height: 15px;
+    }
+    .load{
+        margin-bottom: 30px;
+    }
+    .saler, .lates, .follow{
+        padding-top: 30px;
+    }
+    .footer_top{
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 30px;
+        justify-content: flex-start;
+        padding-top: 80px;
+    }
+    .categories, .information, .link,.content p,.footer_logo, .signup{
+        width: 100%;
+    }
+    .chiacot{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .contact_col{
+        margin-bottom: 30px;
+    }
+    .footer{
+        display: block;
+        text-align: center;
+    }
+    .right ul{
+        justify-content: center;
+    }
+    .menu-bottom,.res-cate{
+        display: block;
+    }
+    .con{
+        padding-bottom: 70px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px){
+    .container{
+        padding: 0 15px;
+    }
+    .product{
+        padding-top: 15px;
+    }
+    .trend,.saler, .lates, .follow{
+        padding-top: 20px;
+    }
+    .button_quick,.text{
+        display: none;
+    }
+    .new,.sale_off {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 9px;
+    }
+    .category{
+        gap: 15px;
+    }
+    .duct_1{
+        margin: 0 7.5px;
+    }
+    .duct_2{
+        margin-left: 7.5px;
+    }
+    .duct{
+        margin-right: 7.5px;
+    }
+    .load{
+        margin-bottom: 30px;
+    }
+    .activity{
+        grid-gap: 15px;
+    }
+    .footer_top{
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 30px;
+        justify-content: flex-start;
+        padding-top: 80px;
+    }
+    .categories, .information, .link,.content p,.footer_logo, .signup{
+        width: 100%;
+    }
+    .chiacot{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .contact_col{
+        margin-bottom: 30px;
+    }
+    .footer{
+        display: block;
+        text-align: center;
+    }
+    .right ul{
+        justify-content: center;
+    }
+    .menu-bottom,.res-cate{
+        display: block;
+    }
+    .con{
+        padding-bottom: 70px;
+    }
+    .header{
+        flex-direction:column;
+        height: auto;
+    }
+    .bar_location{
+        margin-bottom: 15px;
+    }
+    .bar{
+        margin-top: 15px;
+    }
+    .menubar{
+        display: none;
+    }
+    .nav-bar{
+        display: block;
+    }
+    .bar_location,.bar,.logo{
+        justify-content: center;
+    }
+}
+@media (min-width: 1200px){
+
+}
